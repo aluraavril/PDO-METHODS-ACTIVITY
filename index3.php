@@ -1,3 +1,5 @@
+// SHOW CODE DEMONSTRATING FETCH_ALL(). USE PRINT_R(). WITH “<pre>” TAG IN BETWEEN. 
+
 <?php
 require_once 'core/dbConfig.php';
 global $pdo; // Access the global $pdo
